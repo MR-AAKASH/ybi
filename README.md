@@ -12,19 +12,7 @@ This project focuses on developing a model for detecting cancer using various ma
 - [License](#license)
 - [Contact](#contact)
 
-## Project Structure
-├── data
-│ ├── raw
-│ ├── processed
-├── notebooks
-│ ├── exploration.ipynb
-│ ├── model_training.ipynb
-├── src
-│ ├── data_preprocessing.py
-│ ├── model.py
-│ ├── evaluation.py
-├── README.md
-└── requirements.txt## Installation
+
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
